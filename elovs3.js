@@ -1,5 +1,4 @@
-'use strict';
-/** @type {function(number, ?): ?} */
+
 var _0x4d00d4 = _0x4fda;
 (function(groupingFunction, data) {
   /** @type {function(number, ?): ?} */
