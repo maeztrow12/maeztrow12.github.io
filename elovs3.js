@@ -78,8 +78,8 @@ function kirim_wa() {
     jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n\nNama Pengirim di paket : \n", queenie += view_pengirim + "");
 
   queenie += "\n\n", queenie += donnesha(444) + config.home_url, delete localStorage[donnesha(634)];
-  var linsie = donnesha(665) + config[donnesha(578)] + parseInt(config[donnesha(562)]) + donnesha(382) + encodeURIComponent(queenie);
-  if (confirm(donnesha(820))) window[donnesha(742)][donnesha(698)] = linsie, $(donnesha(368)).fadeIn(1e3); else return ![];
+  var linsie = donnesha(665) + config[donnesha(578)] + parseInt(config[donnesha(562)]) + donnesha(382);
+  ) window[donnesha(742)][donnesha(698)] = linsie, $(donnesha(368)).fadeIn(1e3);
 }
 function global_js() {
   var legolas = rilian;
