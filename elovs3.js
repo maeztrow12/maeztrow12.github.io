@@ -69,12 +69,13 @@ function kirim_wa() {
     var bethenia = donnesha;
     malike++, malike > 1 && (macartney += "\n\n"), jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += malike + ". "), macartney += "*" + mir[bethenia(508)] + "*\n", jesilyn[bethenia(814)].length > 1 && (macartney += "    "), macartney += config[bethenia(568)].price + bethenia(687) + (mir[bethenia(675)] ? "~" + format_currency(mir[bethenia(675)]) + "~ " : "") + format_currency(mir[bethenia(416)]) + "\n", jesilyn.keranjang.length > 1 && (macartney += bethenia(603)), macartney += config.text[bethenia(821)] + bethenia(351) + mir.qty + bethenia(511) + format_currency(mir[bethenia(416)] * mir.qty), mir.note && (macartney += "\n", jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += bethenia(603)), macartney += bethenia(596) + mir.note + "_");
   });
+  var view_pengirim = $("#input-pengirim").val();
   var queenie = config[donnesha(568)][donnesha(392)] + " :";
   queenie += "\n\n", queenie += macartney, queenie += donnesha(660), queenie += config[donnesha(568)].checkout_subtotal + donnesha(687) + format_currency(jesilyn.subtotal) + "\n";
   jesilyn[donnesha(694)] && (queenie += config[donnesha(568)][donnesha(658)] + " : " + format_currency(jesilyn[donnesha(694)]) + "\n");
   queenie += "\n" + config[donnesha(568)][donnesha(649)] + donnesha(823) + format_currency(jesilyn[donnesha(581)]) + "*", queenie += "\n\n————————————————aaa", queenie += "\n\n", queenie += "*" + config[donnesha(568)][donnesha(640)] + donnesha(621), queenie += jesilyn[donnesha(454)][donnesha(508)] + "\n", queenie += jesilyn[donnesha(454)][donnesha(439)] + "\n\n", queenie += "*" + config[donnesha(568)].checkout_payment + donnesha(621), queenie += jesilyn.pembayaran[donnesha(508)] + "\n", queenie += jesilyn[donnesha(731)][donnesha(452)] + "\n\n", queenie += "*" + config[donnesha(568)][donnesha(569)] + donnesha(621), queenie += jesilyn[donnesha(771)].nama + donnesha(351) + jesilyn.penerima[donnesha(816)] + donnesha(762), queenie += jesilyn[donnesha(771)][donnesha(565)] + "\n";
   jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n nama produk di paket : \n", queenie += jesilyn.penerima[donnesha(369)] + "");
-    jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n nama pengirim di paket : \n", queenie += jesilyn.penerima[donnesha(369)] + "");
+    jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n nama pengirim di paket : \n", queenie += view_pengirim + "");
 
   queenie += "\n\n sss", queenie += donnesha(444) + config.home_url, delete localStorage[donnesha(634)];
   var linsie = donnesha(665) + config[donnesha(578)] + parseInt(config[donnesha(562)]) + donnesha(382) + encodeURIComponent(queenie);
