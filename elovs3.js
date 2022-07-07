@@ -528,7 +528,9 @@ function convert_post() {
       var mariusz = kaize, leanndra = 80, liya = $(this)[mariusz(568)]();
       if ($[mariusz(459)](liya)[mariusz(775)] > leanndra) {
         var shinia = liya[mariusz(803)](0, leanndra), yoandi = liya.substring(leanndra, $.trim(liya).length);
-        $(this)[mariusz(348)]()[mariusz(380)](shinia), $(this)[mariusz(469)](mariusz(386) + config.text[mariusz(513)] + mariusz(743)), $(this)[mariusz(469)](mariusz(453) + yoandi + mariusz(524)), $(this)[kashyap(780)]().next(kashyap(461))[kashyap(668)]();
+        $(this)[mariusz(469)](mariusz(386) + config.text[mariusz(513)] + mariusz(743)), $(this)[mariusz(469)](mariusz(453) + yoandi + mariusz(524)), $("a.more", this).on(mariusz(834), function (britthany) {
+          var kashyap = mariusz;
+          britthany[kashyap(388)](), $(this)[kashyap(780)]().next(kashyap(461))[kashyap(668)]();
         });
       }
     }), korinne && ($(kaize(784), this)[kaize(400)](kaize(360) + korinne + '">' + format_currency(korinne) + kaize(841)), $(kaize(449), this)[kaize(469)](kaize(436))), allianah && $(kaize(774), this)[kaize(788)](kaize(646), allianah), riaan == kaize(719) ? ($(kaize(784), this)[kaize(380)](kaize(654) + config.text[kaize(353)] + kaize(524)), $(kaize(829), this)[kaize(788)](kaize(602), kaize(602)), $(".prod_img label.prod_promo", this)[kaize(527)](), $(kaize(807), this)[kaize(469)](kaize(428))) : $(kaize(807), this)[kaize(469)](kaize(781));
