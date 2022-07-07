@@ -118,7 +118,7 @@ function global_js() {
     var jailynn = legolas;
     config.payment[berel].status == "on" && $(jailynn(464))[jailynn(469)](jailynn(622) + berel + "|" + config[jailynn(798)][berel][jailynn(452)] + '">' + berel + jailynn(351) + config[jailynn(798)][berel][jailynn(452)] + " )</option>");
   }), $(document).on(legolas(834), ".js-load", function () {
-    convert_post(), lazyload();
+    lazyload();
   }), $(legolas(477)).each(function () {
     var jayleen = legolas;
     $(this)[jayleen(788)]("data-pop", "#pop-iframe"), $(this)[jayleen(469)](jayleen(423));
@@ -530,7 +530,7 @@ function convert_post() {
         var shinia = liya[mariusz(803)](0, leanndra), yoandi = liya.substring(leanndra, $.trim(liya).length);
         $(this)[mariusz(348)]()[mariusz(380)](shinia), $(this)[mariusz(469)](mariusz(386) + config.text[mariusz(513)] + mariusz(743)), $(this)[mariusz(469)](mariusz(453) + yoandi + mariusz(524)), $("a.more", this).on(mariusz(834), function (britthany) {
           var kashyap = mariusz;
-          britthany[kashyap(388)]();
+          britthany[kashyap(388)](), $(this)[kashyap(780)]().next(kashyap(461))[kashyap(668)]();
         });
       }
     }), korinne && ($(kaize(784), this)[kaize(400)](kaize(360) + korinne + '">' + format_currency(korinne) + kaize(841)), $(kaize(449), this)[kaize(469)](kaize(436))), allianah && $(kaize(774), this)[kaize(788)](kaize(646), allianah), riaan == kaize(719) ? ($(kaize(784), this)[kaize(380)](kaize(654) + config.text[kaize(353)] + kaize(524)), $(kaize(829), this)[kaize(788)](kaize(602), kaize(602)), $(".prod_img label.prod_promo", this)[kaize(527)](), $(kaize(807), this)[kaize(469)](kaize(428))) : $(kaize(807), this)[kaize(469)](kaize(781));
