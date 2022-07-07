@@ -525,8 +525,8 @@ function convert_post() {
       var leena = kaize, zelva = $(this).attr(leena(422)), nylin = $(this)[leena(788)](leena(704)), jaryd = $(this)[leena(788)](leena(612))[leena(797)]("w" + zelva + "-h" + nylin, "s0").replace("s" + nylin, "s0"), tomoe = jaryd[leena(797)]("s0", leena(460));
       $(this)[leena(434)]("article")[leena(505)](leena(449)).append(leena(443) + jaryd + leena(530) + bettee + '" data-title="' + romil + leena(379) + format_currency(mckinzie) + leena(544) + romil + leena(541) + tomoe + leena(745));
     }), $('[itemprop="offers"]', this)[kaize(469)](kaize(700) + mckinzie + kaize(800)), $(kaize(491), this)[kaize(836)](function () {
-      var mariusz = kaize, leanndra = 80000, liya = $(this)[mariusz(568)]();
-      if ($[mariusz(459)](liya)[mariusz(775)] > leanndra) {
+      var mariusz = kaize, leanndra = 0, liya = $(this)[mariusz(568)]();
+      if ($[mariusz(459)](liya)[mariusz(775)] < leanndra) {
         var shinia = liya[mariusz(803)](0, leanndra), yoandi = liya.substring(leanndra, $.trim(liya).length);
         $(this)[mariusz(348)]()[mariusz(380)](shinia), $(this)[mariusz(469)](mariusz(386) + config.text[mariusz(513)] + mariusz(743)), $(this)[mariusz(469)](mariusz(453) + yoandi + mariusz(524)), $("a.more", this).on(mariusz(834), function (britthany) {
           var kashyap = mariusz;
