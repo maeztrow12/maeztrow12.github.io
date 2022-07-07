@@ -118,7 +118,7 @@ function global_js() {
     var jailynn = legolas;
     config.payment[berel].status == "on" && $(jailynn(464))[jailynn(469)](jailynn(622) + berel + "|" + config[jailynn(798)][berel][jailynn(452)] + '">' + berel + jailynn(351) + config[jailynn(798)][berel][jailynn(452)] + " )</option>");
   }), $(document).on(legolas(834), ".js-load", function () {
-    lazyload();
+    convert_post(), lazyload();
   }), $(legolas(477)).each(function () {
     var jayleen = legolas;
     $(this)[jayleen(788)]("data-pop", "#pop-iframe"), $(this)[jayleen(469)](jayleen(423));
@@ -340,7 +340,7 @@ function global_js() {
     }
     var xochitl = $(catalyna(359) + tyina);
     xochitl[catalyna(505)](".prod_qty")[catalyna(585)](dovey)[catalyna(433)](catalyna(389));
-  }), (config[legolas(559)] == legolas(502) || config[legolas(559)] == legolas(497)) && convert_post(), config[legolas(559)] == legolas(497) && ($(legolas(485))[legolas(433)](legolas(834)), $(".prod_wrap .prod_url")[legolas(788)](legolas(791), legolas(768)));
+  }), (config[legolas(559)] == legolas(502) || config[legolas(559)] == legolas(497)), config[legolas(559)] == legolas(497) && ($(legolas(485))[legolas(433)](legolas(834)), $(".prod_wrap .prod_url")[legolas(788)](legolas(791), legolas(768)));
 }
 function leia(zeshawn, awanda) {
   var theadora = arvill();
