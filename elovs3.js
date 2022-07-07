@@ -533,7 +533,7 @@ function convert_post() {
           britthany[kashyap(388)](), $(this)[kashyap(780)]().next(kashyap(461))[kashyap(668)]();
         });
       }
-    }), korinne && ($(kaize(784), this)[kaize(400)](kaize(360) + korinne + '">' + format_currency(korinne) + kaize(841)), $(kaize(449), this)[kaize(469)](kaize(436))), allianah && $(kaize(774), this)[kaize(788)](kaize(646), allianah), riaan == kaize(719) ? ($(kaize(784), this)[kaize(380)], $(kaize(829), this)[kaize(788)](kaize(602), kaize(602)), $(".prod_img label.prod_promo", this)[kaize(527)](), $(kaize(807), this)[kaize(469)](kaize(428))) : $(kaize(807), this)[kaize(469)](kaize(781));
+    });
   }), sync_cart(), $(kianu(774)).each(function () {
     var elfrieda = kianu, ardyth = $(this);
     $(".prod_qty", this)[elfrieda(836)](function () {
