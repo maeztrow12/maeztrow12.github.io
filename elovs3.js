@@ -528,7 +528,7 @@ function convert_post() {
       var mariusz = kaize, leanndra = 80, liya = $(this)[mariusz(568)]();
       if ($[mariusz(459)](liya)[mariusz(775)] > leanndra) {
         var shinia = liya[mariusz(803)](0, leanndra), yoandi = liya.substring(leanndra, $.trim(liya).length);
-        $(this)[mariusz(469)](mariusz(386) + config.text[mariusz(513)] + mariusz(743)), $("a.more", this).on(mariusz(834), function (britthany) {
+        $(this)[mariusz(469)](mariusz(386) + mariusz(743)), $("a.more", this).on(mariusz(834), function (britthany) {
           var kashyap = mariusz;
           britthany[kashyap(388)](), $(this)[kashyap(780)]().next(kashyap(461))[kashyap(668)]();
         });
