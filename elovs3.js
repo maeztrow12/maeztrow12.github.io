@@ -517,7 +517,7 @@ function lightbox_js() {
 }
 function convert_post() {
   var kianu = rilian;
-  $(".loop article[data-load=false]")[kianu(836)](function () {
+  $(".loop article[data-load=true]")[kianu(836)](function () {
     var kaize = kianu;
     $(this)[kaize(788)](kaize(683), !![]);
     var bettee = $(kaize(774), this)[kaize(788)]("id"), feltus = $(kaize(468), this).attr("href"), romil = $(kaize(468), this)[kaize(568)](), romilda = $(kaize(630), this)[kaize(568)](), riaan = $(kaize(773), this)[kaize(568)](), allianah = parseInt($(".data_weight", this)[kaize(568)]()[kaize(641)](".", "")[kaize(641)](",", "")), mckinzie = parseInt($(".data_price", this)[kaize(568)]().replaceAll(".", "")[kaize(641)](",", "")), korinne = parseInt($(kaize(516), this)[kaize(568)]().replaceAll(".", "")[kaize(641)](",", ""));
