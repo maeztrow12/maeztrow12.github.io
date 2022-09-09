@@ -73,7 +73,7 @@ function kirim_wa() {
   var queenie = config[donnesha(568)][donnesha(392)] + " :";
   queenie += "\n\n", queenie += macartney, queenie += donnesha(660), queenie += config[donnesha(568)].checkout_subtotal + donnesha(687) + format_currency(jesilyn.subtotal) + "\n";
   jesilyn[donnesha(694)] && (queenie += config[donnesha(568)][donnesha(658)] + " : " + format_currency(jesilyn[donnesha(694)]) + "\n");
-  queenie += "\n" + config[donnesha(568)][donnesha(649)] + donnesha(823) + format_currency(jesilyn[donnesha(581)]) + "*", queenie += "\n\n————————————————", queenie += "\n\n", queenie += "*" + config[donnesha(568)].checkout_payment + donnesha(621), queenie += jesilyn.pembayaran[donnesha(508)] + "\n\n", queenie += "*" + config[donnesha(568)][donnesha(569)] + donnesha(621), queenie += jesilyn[donnesha(771)].nama + donnesha(351) + jesilyn.penerima[donnesha(816)] + donnesha(762), queenie += jesilyn[donnesha(771)][donnesha(565)] + "\n";
+  queenie += "\n" + config[donnesha(568)][donnesha(649)] + donnesha(823) + format_currency(jesilyn[donnesha(581)]) + "*", queenie += "\n\n————————————————", queenie += "\n\n", queenie += "*" + config[donnesha(568)][donnesha(640)] + donnesha(621), queenie += jesilyn[donnesha(454)][donnesha(508)] + "\n\n", queenie += "*" + config[donnesha(568)].checkout_payment + donnesha(621), queenie += jesilyn.pembayaran[donnesha(508)] + "\n\n", queenie += "*" + config[donnesha(568)][donnesha(569)] + donnesha(621), queenie += jesilyn[donnesha(771)].nama + donnesha(351) + jesilyn.penerima[donnesha(816)] + donnesha(762), queenie += jesilyn[donnesha(771)][donnesha(565)] + "\n";
   jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\nNama Produk di ganti : \n", queenie += jesilyn.penerima[donnesha(369)] + "");
     jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n\nNama Pengirim di ganti : \n", queenie += view_pengirim + "");
 
@@ -234,7 +234,14 @@ function global_js() {
       }
     });
     if (javant) {
-      
+      if ($("#cart_shipping")[versavia(788)](versavia(594)) == undefined) {
+        $(document)[versavia(728)]();
+        var daijah = $("header")[versavia(696)]();
+        return $(versavia(670))[versavia(575)]()[versavia(805)]({scrollTop: $(versavia(703)).offset()[versavia(710)] - 15 - daijah}, 400), $("#cart_shipping")[versavia(686)](versavia(699)), setTimeout(function () {
+          var khelan = versavia;
+          $(khelan(703))[khelan(427)]("focus");
+        }, 1e3), ![];
+      } else {
         if ($(versavia(645))[versavia(788)](versavia(594)) == undefined) {
           $(document).blur();
           var daijah = $("header")[versavia(696)]();
