@@ -198,11 +198,6 @@ function global_js() {
   }), $(document).on(legolas(834), legolas(722), function () {
     var jayvin = legolas;
     $(this)[jayvin(434)](jayvin(693))[jayvin(427)](jayvin(510));
-  }), $("#cart_shipping ul li").on("click", function () {
-    var mkiyah = legolas;
-    $("#cart_shipping")[mkiyah(788)](mkiyah(594), !![]), $("#cart_shipping ul li")[mkiyah(427)]("active"), $(this).addClass("active");
-    var junor = $(this)[mkiyah(788)](mkiyah(747)), breylon = $(mkiyah(461), this)[mkiyah(568)]();
-    $(mkiyah(551))[mkiyah(788)](mkiyah(747), junor).text(format_currency(junor)), config[mkiyah(492)][mkiyah(454)].name = $(mkiyah(461), this)[mkiyah(568)](), config[mkiyah(492)][mkiyah(454)][mkiyah(439)] = $("h4", this)[mkiyah(568)](), config[mkiyah(492)].pengiriman.info = $("small", this)[mkiyah(568)](), config[mkiyah(492)].pengiriman[mkiyah(349)] = parseInt($(this)[mkiyah(788)]("data-cost")), config.checkout[mkiyah(694)] = parseInt($(this)[mkiyah(788)](mkiyah(747))), config.checkout[mkiyah(419)] = parseInt($(mkiyah(717)).attr("data-price")), config[mkiyah(492)].berat = parseInt($(mkiyah(592))[mkiyah(788)]("data-weight")), config.checkout[mkiyah(581)] = parseInt($("td.cart_subtotal")[mkiyah(788)](mkiyah(407))) + parseInt($(this)[mkiyah(788)]("data-cost")), cart_total_update();
   }), $(legolas(464))[legolas(469)](legolas(748) + config[legolas(568)][legolas(718)] + " --</option>"), $(legolas(464)).on(legolas(389), function () {
     var yunay = legolas;
     $(this).closest(yunay(645)).attr("data-active", !![]);
