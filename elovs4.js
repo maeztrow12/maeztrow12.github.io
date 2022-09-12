@@ -67,6 +67,7 @@ function kirim_wa() {
   var donnesha = rilian, jesilyn = config[donnesha(492)], macartney = "", malike = 0;
   jesilyn[donnesha(814)][donnesha(350)](function (mir) {
     var bethenia = donnesha;
+    var keuntungan = (penerima[donnesha(369))-subtotal;
     malike++, malike > 1 && (macartney += "\n\n"), jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += malike + ". "), macartney += "*" + mir[bethenia(508)] + "*\n", jesilyn[bethenia(814)].length > 1 && (macartney += "    "), macartney += config[bethenia(568)].price + bethenia(687) + (mir[bethenia(675)] ? "~" + format_currency(mir[bethenia(675)]) + "~ " : "") + format_currency(mir[bethenia(416)]) + "\n", jesilyn.keranjang.length > 1 && (macartney += bethenia(603)), macartney += config.text[bethenia(821)] + bethenia(351) + mir.qty + bethenia(511) + format_currency(mir[bethenia(416)] * mir.qty), mir.note && (macartney += "\n", jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += bethenia(603)), macartney += bethenia(596) + mir.note + "_");
   });
   var view_pengirim = $("#input-pengirim").val();
@@ -75,6 +76,8 @@ function kirim_wa() {
   jesilyn[donnesha(694)] && (queenie += config[donnesha(568)][donnesha(658)] + " : " + format_currency(jesilyn[donnesha(694)]) + "\n");
   jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n————————————————\n\nHarga Jual : \n", queenie += jesilyn.penerima[donnesha(369)] + "");
     jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n\nNama Pengirim : \n", queenie += view_pengirim + "");
+      jesilyn[donnesha(771)][donnesha(369)] && (queenie += "\n\nkeuntungan : \n", queenie += keuntungan + "");
+
 
    queenie += "\n\n————————————————", queenie += "\n\n", queenie += "*" + config[donnesha(568)][donnesha(640)] + donnesha(621), queenie += jesilyn[donnesha(454)][donnesha(508)] + "\n\n", queenie += "*" + config[donnesha(568)][donnesha(569)] + donnesha(621), queenie += jesilyn[donnesha(771)].nama + donnesha(351) + jesilyn.penerima[donnesha(816)] + donnesha(762), queenie += jesilyn[donnesha(771)][donnesha(565)] + "\n";
   
