@@ -199,7 +199,7 @@ function global_js() {
   }), $(document).on(legolas(834), legolas(722), function () {
     var jayvin = legolas;
     $(this)[jayvin(434)](jayvin(693))[jayvin(427)](jayvin(510));
-  }), $("#cart_shipping ul li").on("click", function () {
+  }), $("#cart_shipping ul li").("click", function () {
     var mkiyah = legolas;
     $("#cart_shipping")[mkiyah(788)](mkiyah(594), !![]), $("#cart_shipping ul li")[mkiyah(427)]("active"), $(this).addClass("active");
     var junor = $(this)[mkiyah(788)](mkiyah(747)), breylon = $(mkiyah(461), this)[mkiyah(568)]();
