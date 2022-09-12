@@ -234,7 +234,14 @@ function global_js() {
       }
     });
     if (javant) {
-      
+      if ($("#cart_shipping")[versavia(788)](versavia(594)) == undefined) {
+        $(document)[versavia(728)]();
+        var daijah = $("header")[versavia(696)]();
+        return $(versavia(670))[versavia(575)]()[versavia(805)]({scrollTop: $(versavia(703)).offset()[versavia(710)] - 15 - daijah}, 400), $("#cart_shipping")[versavia(686)](versavia(699)), setTimeout(function () {
+          var khelan = versavia;
+          $(khelan(703))[khelan(427)]("focus");
+        }, 1e3), ![];
+      } else {
         if ($(versavia(645))[versavia(788)](versavia(594)) == undefined) {
           $(document).blur();
           var daijah = $("header")[versavia(696)]();
@@ -248,7 +255,7 @@ function global_js() {
             $(lakyna(826))[lakyna(699)](), $("#cart_form [name=whatsapp]")[lakyna(412)](lakyna(764))[lakyna(380)](config.text.valid_whatsapp + lakyna(582) + config[lakyna(568)][lakyna(591)] + lakyna(687) + config[lakyna(568)][lakyna(394)] + " )</small>")[lakyna(686)]("open");
           }, 400), ![]; else kirim_wa();
         }
-      
+      }
     } else return ![];
   }), $(document).on(legolas(389), legolas(429), function () {
     var doyel = legolas;
