@@ -67,6 +67,13 @@ function kirim_wa() {
   
   var donnesha = rilian, jesilyn = config[donnesha(492)], macartney = "", malike = 0;
   jesilyn[donnesha(814)][donnesha(350)](function (mir) {
+    
+   var data-cost = "0";
+    var mkiyah = legolas;
+
+    var junor = $(this)[mkiyah(788)](mkiyah(747)), breylon = $(mkiyah(461), this)[mkiyah(568)]();
+    $(mkiyah(551))[mkiyah(788)](mkiyah(747), junor).text(format_currency(junor)), config[mkiyah(492)][mkiyah(454)].name = $(mkiyah(461), this)[mkiyah(568)](), config[mkiyah(492)][mkiyah(454)][mkiyah(439)] = $("h4", this)[mkiyah(568)](), config[mkiyah(492)].pengiriman.info = $("small", this)[mkiyah(568)](), config[mkiyah(492)].pengiriman[mkiyah(349)] = parseInt($(this)[mkiyah(788)]("data-cost")), config.checkout[mkiyah(694)] = parseInt($(this)[mkiyah(788)](mkiyah(747))), config.checkout[mkiyah(419)] = parseInt($(mkiyah(717)).attr("data-price")), config[mkiyah(492)].berat = parseInt($(mkiyah(592))[mkiyah(788)]("data-weight")), config.checkout[mkiyah(581)] = parseInt($("td.cart_subtotal")[mkiyah(788)](mkiyah(407))) + parseInt($(this)[mkiyah(788)]("data-cost")), cart_total_update();
+ 
     var bethenia = donnesha;
     malike++, malike > 1 && (macartney += "\n\n"), jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += malike + ". "), macartney += "*" + mir[bethenia(508)] + "*\n", jesilyn[bethenia(814)].length > 1 && (macartney += "    "), macartney += config[bethenia(568)].price + bethenia(687) + (mir[bethenia(675)] ? "~" + format_currency(mir[bethenia(675)]) + "~ " : "") + format_currency(mir[bethenia(416)]) + "\n", jesilyn.keranjang.length > 1 && (macartney += bethenia(603)), macartney += config.text[bethenia(821)] + bethenia(351) + mir.qty + bethenia(511) + format_currency(mir[bethenia(416)] * mir.qty), mir.note && (macartney += "\n", jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += bethenia(603)), macartney += bethenia(596) + mir.note + "_");
   });
@@ -199,7 +206,7 @@ function global_js() {
   }), $(document).on(legolas(834), legolas(722), function () {
     var jayvin = legolas;
     $(this)[jayvin(434)](jayvin(693))[jayvin(427)](jayvin(510));
-  }), $("#cart_shipping ul li").("click", function () {
+  }), $("#cart_shipping ul li").on("click", function () {
     var mkiyah = legolas;
     $("#cart_shipping")[mkiyah(788)](mkiyah(594), !![]), $("#cart_shipping ul li")[mkiyah(427)]("active"), $(this).addClass("active");
     var junor = $(this)[mkiyah(788)](mkiyah(747)), breylon = $(mkiyah(461), this)[mkiyah(568)]();
