@@ -65,6 +65,8 @@ function time_ago(tauris) {
 }
 function kirim_wa() {
   var donnesha = rilian, jesilyn = config[donnesha(492)], macartney = "", malike = 0;
+  var cost = 0;
+  var data-cost = 0;
   jesilyn[donnesha(814)][donnesha(350)](function (mir) {
     var bethenia = donnesha;
     malike++, malike > 1 && (macartney += "\n\n"), jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += malike + ". "), macartney += "*" + mir[bethenia(508)] + "*\n", jesilyn[bethenia(814)].length > 1 && (macartney += "    "), macartney += config[bethenia(568)].price + bethenia(687) + (mir[bethenia(675)] ? "~" + format_currency(mir[bethenia(675)]) + "~ " : "") + format_currency(mir[bethenia(416)]) + "\n", jesilyn.keranjang.length > 1 && (macartney += bethenia(603)), macartney += config.text[bethenia(821)] + bethenia(351) + mir.qty + bethenia(511) + format_currency(mir[bethenia(416)] * mir.qty), mir.note && (macartney += "\n", jesilyn[bethenia(814)][bethenia(775)] > 1 && (macartney += bethenia(603)), macartney += bethenia(596) + mir.note + "_");
@@ -234,14 +236,7 @@ function global_js() {
       }
     });
     if (javant) {
-      if ($("#cart_shipping")[versavia(788)](versavia(594)) == undefined) {
-        $(document)[versavia(728)]();
-        var daijah = $("header")[versavia(696)]();
-        return $(versavia(670))[versavia(575)]()[versavia(805)]({scrollTop: $(versavia(703)).offset()[versavia(710)] - 15 - daijah}, 400), $("#cart_shipping")[versavia(686)](versavia(699)), setTimeout(function () {
-          var khelan = versavia;
-          $(khelan(703))[khelan(427)]("focus");
-        }, 1e3), ![];
-      } else {
+      
         if ($(versavia(645))[versavia(788)](versavia(594)) == undefined) {
           $(document).blur();
           var daijah = $("header")[versavia(696)]();
@@ -254,7 +249,7 @@ function global_js() {
             var lakyna = versavia;
             $(lakyna(826))[lakyna(699)](), $("#cart_form [name=whatsapp]")[lakyna(412)](lakyna(764))[lakyna(380)](config.text.valid_whatsapp + lakyna(582) + config[lakyna(568)][lakyna(591)] + lakyna(687) + config[lakyna(568)][lakyna(394)] + " )</small>")[lakyna(686)]("open");
           }, 400), ![]; else kirim_wa();
-        }
+        
       }
     } else return ![];
   }), $(document).on(legolas(389), legolas(429), function () {
