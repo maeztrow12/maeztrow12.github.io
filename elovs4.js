@@ -64,6 +64,11 @@ function time_ago(tauris) {
   return joby < 6e4 ? Math.round(joby / 1e3) + islamae(401) + vincente : joby < maximino ? Math.round(joby / 6e4) + islamae(616) + vincente : joby < annabela ? Math.round(joby / maximino) + " jam " + vincente : joby < shayden ? Math[islamae(757)](joby / annabela) + " hari " + vincente : joby < amavi ? Math[islamae(757)](joby / shayden) + " bulan " + vincente : Math[islamae(757)](joby / amavi) + islamae(441) + vincente;
 }
 function kirim_wa() {
+  var mkiyah = legolas;
+    $("#cart_shipping")[mkiyah(788)](mkiyah(594), !![]), $("#cart_shipping ul li")[mkiyah(427)]("active"), $(this).addClass("active");
+    var junor = $(this)[mkiyah(788)](mkiyah(747)), breylon = $(mkiyah(461), this)[mkiyah(568)]();
+    $(mkiyah(551))[mkiyah(788)](mkiyah(747), junor).text(format_currency(junor)), config[mkiyah(492)][mkiyah(454)].name = $(mkiyah(461), this)[mkiyah(568)](), config[mkiyah(492)][mkiyah(454)][mkiyah(439)] = $("h4", this)[mkiyah(568)](), config[mkiyah(492)].pengiriman.info = $("small", this)[mkiyah(568)](), config[mkiyah(492)].pengiriman[mkiyah(349)] = parseInt($(this)[mkiyah(788)]("data-cost")), config.checkout[mkiyah(694)] = parseInt($(this)[mkiyah(788)](mkiyah(747))), config.checkout[mkiyah(419)] = parseInt($(mkiyah(717)).attr("data-price")), config[mkiyah(492)].berat = parseInt($(mkiyah(592))[mkiyah(788)]("data-weight")), config.checkout[mkiyah(581)] = parseInt($("td.cart_subtotal")[mkiyah(788)](mkiyah(407))) + parseInt($(this)[mkiyah(788)]("data-cost")), cart_total_update();
+ 
   var donnesha = rilian, jesilyn = config[donnesha(492)], macartney = "", malike = 0;
   jesilyn[donnesha(814)][donnesha(350)](function (mir) {
     var bethenia = donnesha;
@@ -234,14 +239,7 @@ function global_js() {
       }
     });
     if (javant) {
-      if ($("#cart_shipping")[versavia(788)](versavia(594)) == undefined) {
-        $(document)[versavia(728)]();
-        var daijah = $("header")[versavia(696)]();
-        return $(versavia(670))[versavia(575)]()[versavia(805)]({scrollTop: $(versavia(703)).offset()[versavia(710)] - 15 - daijah}, 400), $("#cart_shipping")[versavia(686)](versavia(699)), setTimeout(function () {
-          var khelan = versavia;
-          $(khelan(703))[khelan(427)]("focus");
-        }, 1e3), ![];
-      } else {
+      
         if ($(versavia(645))[versavia(788)](versavia(594)) == undefined) {
           $(document).blur();
           var daijah = $("header")[versavia(696)]();
@@ -255,7 +253,7 @@ function global_js() {
             $(lakyna(826))[lakyna(699)](), $("#cart_form [name=whatsapp]")[lakyna(412)](lakyna(764))[lakyna(380)](config.text.valid_whatsapp + lakyna(582) + config[lakyna(568)][lakyna(591)] + lakyna(687) + config[lakyna(568)][lakyna(394)] + " )</small>")[lakyna(686)]("open");
           }, 400), ![]; else kirim_wa();
         }
-      }
+      
     } else return ![];
   }), $(document).on(legolas(389), legolas(429), function () {
     var doyel = legolas;
