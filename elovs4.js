@@ -244,12 +244,19 @@ function global_js() {
           $(khelan(703))[khelan(427)]("focus");
         }, 1e3), ![];
       } else {
-        
+        if ($(versavia(645))[versavia(788)](versavia(594)) == undefined) {
+          $(document).blur();
+          var daijah = $("header")[versavia(696)]();
+          return $(versavia(670))[versavia(575)]()[versavia(805)]({scrollTop: $(versavia(645))[versavia(619)]()[versavia(710)] - 15 - daijah}, 400), $("#cart_payment")[versavia(686)](versavia(699)), $("#cart_payment select")[versavia(699)](), setTimeout(function () {
+            var alainey = versavia;
+            $("#cart_payment")[alainey(427)](alainey(699));
+          }, 1e3), ![];
+        } else {
           if ($(versavia(826))[versavia(585)]()[versavia(775)] < 6) return $(versavia(670))[versavia(575)]().animate({scrollTop: 0}, 400), setTimeout(function () {
             var lakyna = versavia;
             $(lakyna(826))[lakyna(699)](), $("#cart_form [name=whatsapp]")[lakyna(412)](lakyna(764))[lakyna(380)](config.text.valid_whatsapp + lakyna(582) + config[lakyna(568)][lakyna(591)] + lakyna(687) + config[lakyna(568)][lakyna(394)] + " )</small>")[lakyna(686)]("open");
           }, 400), ![]; else kirim_wa();
-        
+        } 
       }
     } else return ![];
   }), $(document).on(legolas(389), legolas(429), function () {
