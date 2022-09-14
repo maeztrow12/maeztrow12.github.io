@@ -161,7 +161,7 @@ function global_js() {
     config.checkout[maximum(771)][adlemi] = $(this).val();
   }), $(document).on("click", ".cart_finish", function () {
     var madailein = legolas;
-    $("#checkout #cart_form")[madailein(433)](madailein(794));
+    $("#checkout #cart_form2")[madailein(433)](madailein(794));
   });
   let zakiyyah = [];
   $(legolas(368))[legolas(390)](100), $(window).on(legolas(474), function () {
