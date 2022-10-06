@@ -10,65 +10,7 @@ var raice = kellam;
     }
   }
 }(abbye, 808052));
-const $license_item = raice(671);
-license();
-function license() {
-  var jerri = raice;
-  function dashanae(amirr) {
-    var milanya = kellam;
-    function ry(braydi) {
-      try {
-        return btoa(atob(braydi)) == braydi;
-      } catch (nakari) {
-        return ![];
-      }
-    }
-    if (ry(amirr)) {
-      amirr = atob(amirr), amirr = amirr[milanya(696)]("XXX", "."), amirr = amirr[milanya(696)]("YY", "-"), amirr = amirr[milanya(696)]("O5", "a"), amirr = amirr[milanya(696)]("E4", "i"), amirr = amirr[milanya(696)]("U3", "u"), amirr = amirr[milanya(696)]("I2", "e"), amirr = amirr[milanya(696)]("A1", "o");
-      function amilynn(raylend) {
-        var damaj = milanya;
-        const makalah = raylend[damaj(654)](""), sharda = makalah[damaj(466)](), ab = sharda.join("");
-        return ab;
-      }
-      return amirr = amilynn(amirr), amirr;
-    } else return "";
-  }
-  function alaira(jayci) {
-    var myesia = kellam, tillian = myesia(604) + jayci + myesia(560) + $license_item + '" target="_blank" style="opacity:.7;font-size:70%;letter-spacing:1px;">https://lapak.kangrian.net</a>                </div>            </div>        ';
-    return document.body[myesia(373)] = tillian;
-  }
-  if (typeof $license_key === jerri(543)) alaira(jerri(302)); else {
-    if (typeof $license_item === jerri(543)) alaira(jerri(306)); else {
-      if (location[jerri(530)].indexOf(jerri(647)) != -1 || location.hostname[jerri(282)](jerri(364)) != -1 || location[jerri(530)][jerri(282)](jerri(492)) != -1) {
-        console.log("Developed by. https://kangrian.net ( Free / Trial Version )");
-        var sharida = document[jerri(356)]("copyright");
-        if (sharida === null) alaira('<b>Hargailah Hak Cipta</b><br><br><small>Gunakan "Lisensi Premium" untuk menghapus credit.</small><br><br><small>#ERR_COPYRIGHT</small>'); else {
-          var rhyan = (new Date)[jerri(290)]();
-          sharida[jerri(373)] = jerri(473) + rhyan + ' &#8212; Made with. <a href="https://lapak.kangrian.net/' + $license_item + '" target="_blank"><b>Kr</b></a>', sharida[jerri(720)](jerri(717), "display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important");
-        }
-      } else {
-        if ($license_key === "") alaira(jerri(715)); else {
-          const anam = dashanae($license_key)[jerri(654)]("|")[0], oniel = dashanae($license_key)[jerri(654)]("|")[1];
-          if (anam == "" || anam == undefined) alaira("<b>Kode Lisensi</b> yang digunakan tidak valid.</b><br><br><small>#ERR_KEY</small>"); else {
-            if (location[jerri(530)][jerri(282)](anam) == -1) alaira(jerri(615) + anam + jerri(341)); else {
-              if (oniel != $license_item) {
-                function amarra(ishana) {
-                  var argentina = jerri;
-                  ishana = ishana[argentina(654)](" ");
-                  for (var sidonia = 0; sidonia < ishana[argentina(310)]; sidonia++) {
-                    ishana[sidonia] = ishana[sidonia][argentina(558)](0)[argentina(378)]() + ishana[sidonia][argentina(555)](1);
-                  }
-                  return ishana = ishana[argentina(401)](" "), ishana;
-                }
-                alaira(jerri(702) + amarra($license_item[jerri(696)]("-", " ")) + jerri(610));
-              } else console.log("Developed by. https://kangrian.net ( Premium Version )");
-            }
-          }
-        }
-      }
-    }
-  }
-}
+
 window[raice(517)] = function () {
   etc(), slideshow(), product_convert(), product_sort(), shortcode(), cart(), lazyload(), lightbox(), pop(), popwin(), timeago(), translate(), custom_js();
 };
