@@ -16,10 +16,11 @@ window[raice(517)] = function () {
 };
 function cart() {
 
-  var tannyr = raice , brinleigh = tannyr(561) +        $_config[tannyr(667)][tannyr(265)] && (brinleigh += '            <input type="number" name="email" placeholder="' + $_config[tannyr(710)][tannyr(383)] + tannyr(447));
- $_config[tannyr(710)][tannyr(711)] + tannyr(326) + $_config[tannyr(710)].checkout_phone + tannyr(640);
+  var tannyr = raice , brinleigh = tannyr(561) +  $_config[tannyr(710)][tannyr(711)] + tannyr(326) + $_config[tannyr(710)].checkout_phone + tannyr(640);
 
      $_config[tannyr(667)].address && (brinleigh += tannyr(436) + $_config[tannyr(710)].checkout_address + tannyr(652));
+         $_config[tannyr(667)][tannyr(265)] && (brinleigh += '            <input type="number" name="email" placeholder="' + $_config[tannyr(710)][tannyr(383)] + tannyr(447));
+
   $_config[tannyr(667)][tannyr(346)] && (brinleigh += tannyr(424) + $_config[tannyr(710)][tannyr(713)] + tannyr(415));
 
   if ($_config.checkout_form[tannyr(595)]) {
